@@ -39,4 +39,8 @@ public class Produto {
         this.categoria = categoria;
     }
 
+    public double getPreco() {
+        return preco;
+    }
+
 }
